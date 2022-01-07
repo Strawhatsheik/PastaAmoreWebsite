@@ -1,0 +1,31 @@
+/* The background color of the pages will be 'Cafe' */
+body {background-color: #7b573e;}
+
+/*<!-- The body style will be the color 'cannoli' -->    
+    <body style="background-color: #D8C6B8">
+
+/*The navigation bar will be 'Wine' and font 'Cannoli' 
+  With centered font*/
+#navBar {background-color: #5e1211; color: #D8C6B8;
+         align-content: center;
+}
+
+/*The Header will also have Wine colored bars*/
+h2, h3 {
+    background-color: #5e1211; 
+    color: #D8C6B8; 
+    overflow:hidden}
+/*The font color will be 'Cannoli'*/
+a, body {color: #D8C6B8;font-size: 30px;}
+
+/*The styling to place font of mission statment over a photo. The MS below stands for 'Mission Statement'*/
+
+#containerMS {
+
+    
+}
+
+#h2MS, #pMS {
+    position:relative
+   
+}
