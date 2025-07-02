@@ -1,3 +1,6 @@
+# Capstone Pasta Amore Website
+ A repository for demo website.
+
 ![image](https://github.com/user-attachments/assets/fd150668-3936-44a1-b776-f216f9abbc78)
 
 Pasta Amore is a website I made for GRA-310 Digital Graphic Design for Web. I developed the code in CSS3 and HTML5 in Brackets. This exercise was good experience for me as while I had experience in these languages and website design from my Associates, this class taught me how to use stylesheets, rather than have all the information placed manually in the main HTML document.
