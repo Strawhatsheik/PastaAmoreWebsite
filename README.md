@@ -15,5 +15,5 @@ Below are the wireframes/flowsheets, and different logos I created in Photoshop.
 
 ![image](https://github.com/user-attachments/assets/26863b9c-1061-40c9-b65f-b70322c12ffe)
 
-Feel free to look at everything on my Behance: https://www.behance.net/portfolio/editor?project_id=134547577
+Feel free to look at everything on my Behance:(https://www.behance.net/gallery/134547577/Pasta-Amore-website-demo)
 
